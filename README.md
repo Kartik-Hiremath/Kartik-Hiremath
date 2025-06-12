@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="luffy.gif">
+  <img src="assets/luffy.gif">
 </p>
