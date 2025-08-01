@@ -5,26 +5,26 @@
 
 <p align="center"> <img src="assets/Gang.png" alt="DareDuck" /> </p>
 
-<img src="https://raw.githubusercontent.com/Kartik-Hiremath/Kartik-Hiremath/main/assets/Mob.gif" alt="Mob" width="200px" align="right">
+<img src="https://raw.githubusercontent.com/Kartik-Hiremath/Kartik-Hiremath/main/assets/Mob.gif" alt="Mob" width="220px" align="right" style="margin-right: 40px;">
 
 <p>
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" width="20px" valign="middle">
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" width="25px" valign="middle">
 &nbsp; I'm open to collaboration on exciting tech projects or internships!
 </p>
 <p>
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/hyperkitty.gif" width="20px" valign="middle">
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/hyperkitty.gif" width="25px" valign="middle">
 &nbsp; I’m currently learning <strong>Blockchain and Cloud Computing</strong>.
 </p>
 <p>
-<img src="assets/Developer.gif" width="20px" valign="middle">
+<img src="assets/Developer.gif" width="25px" valign="middle">
 &nbsp; I'm strengthening my DSA skills by solving daily problems on LeetCode.
 </p>
 <p>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="20px" valign="middle">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="25px" valign="middle">
 &nbsp; Ask me about <strong>Blockchain, Computer Vision, Java, Python</strong>.
 </p>
 <p>
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/letterbox.gif" width="20px" valign="middle">
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/letterbox.gif" width="25px" valign="middle">
 &nbsp; How to reach me: <a href="mailto:kartikhiremath001@gmail.com"><strong>kartikhiremath001@gmail.com</strong></a>
 </p>
 
@@ -60,9 +60,9 @@
 
 <h3><b>Code Cycle</b></h3>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="12%" alt="Broken system!"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="12%" alt="It's working!"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="12%" alt="It's working but you don't know how!"/>
 </p>
