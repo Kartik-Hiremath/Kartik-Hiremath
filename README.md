@@ -5,31 +5,30 @@
 
 <p align="center"> <img src="assets/Gang.png" alt="DareDuck" /> </p>
 
-<div align="left">
-    <table>
-        <tr>
-            <td valign="top"><img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" width="20px"></td>
-            <td>I'm open to collaboration on exciting tech projects or internships!</td>
-            <td rowspan="5" align="right"><img src="assets/Mob.gif" alt="Mob" width="200px"></td>
-        </tr>
-        <tr>
-            <td valign="top"><img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/hyperkitty.gif" width="20px"></td>
-            <td>I’m currently learning <strong>Blockchain and Cloud Computing</strong>.</td>
-        </tr>
-        <tr>
-            <td valign="top"><img src="assets/Developer.gif" width="20px"></td>
-            <td>I'm strengthening my DSA skills by solving daily problems on LeetCode</td>
-        </tr>
-        <tr>
-            <td valign="top"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="20px"></td>
-            <td>Ask me about <strong>Blockchain, Computer Vision, Java, Python</strong>.</td>
-        </tr>
-        <tr>
-            <td valign="top"><img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/letterbox.gif" width="20px"></td>
-            <td>How to reach me <strong>kartikhiremath001@gmail.com</strong></td>
-        </tr>
-    </table>
-</div>
+<img src="https://raw.githubusercontent.com/Kartik-Hiremath/Kartik-Hiremath/main/assets/Mob.gif" alt="Mob" width="200px" align="right">
+
+<p>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" width="20px" valign="middle">
+&nbsp; I'm open to collaboration on exciting tech projects or internships!
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/hyperkitty.gif" width="20px" valign="middle">
+&nbsp; I’m currently learning <strong>Blockchain and Cloud Computing</strong>.
+</p>
+<p>
+<img src="assets/Developer.gif" width="20px" valign="middle">
+&nbsp; I'm strengthening my DSA skills by solving daily problems on LeetCode.
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="20px" valign="middle">
+&nbsp; Ask me about <strong>Blockchain, Computer Vision, Java, Python</strong>.
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/letterbox.gif" width="20px" valign="middle">
+&nbsp; How to reach me: <a href="mailto:kartikhiremath001@gmail.com"><strong>kartikhiremath001@gmail.com</strong></a>
+</p>
+
+<br clear="all" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,12 +42,11 @@
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a> 
+    <a href="https://remix-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/remix/remix-original.svg" alt="remix" width="40" height="40"/> </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a> 
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> 
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
