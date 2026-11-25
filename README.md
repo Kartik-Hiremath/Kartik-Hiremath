@@ -1,60 +1,23 @@
 <h1 align="center"><img src="assets/Hi.gif" width="30px"> I'm Kartik J Hiremath</h1>
-<h3 align="center">An aspiring software engineer and creative problem-solver, with a focus on decentralized technologies and cloud infrastructure.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik-hiremath&label=Profile%20views&color=0e75b6&style=flat" alt="kartik-hiremath" /> </p>
+<h3 align="center">Software engineer building observability for IBM Z and Power platforms.</h3>
 
 <p align="center"> <img src="assets/Gang.png" alt="DareDuck" /> </p>
 
 <img src="https://raw.githubusercontent.com/Kartik-Hiremath/Kartik-Hiremath/main/assets/Mob.gif" alt="Mob" width="220px" align="right" style="margin-right: 40px;">
 
-<p>
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" width="25px" valign="middle">
-&nbsp; I'm open to collaboration on exciting tech projects or internships!
-</p>
-<p>
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/hyperkitty.gif" width="25px" valign="middle">
-&nbsp; I’m currently learning <strong>Blockchain and Cloud Computing</strong>.
-</p>
-<p>
-<img src="assets/Developer.gif" width="25px" valign="middle">
-&nbsp; I'm strengthening my DSA skills by solving daily problems on LeetCode.
-</p>
-<p>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="25px" valign="middle">
-&nbsp; Ask me about <strong>Blockchain, Computer Vision, Java, Python</strong>.
-</p>
-<p>
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/letterbox.gif" width="25px" valign="middle">
-&nbsp; How to reach me: <a href="mailto:kartikhiremath001@gmail.com"><strong>kartikhiremath001@gmail.com</strong></a>
-</p>
+I'm based in Bangalore. I build the agents and sensors that monitor and trace workloads on z/OS, AIX and IBM i. Most of my work is in Java, with Python and shell where the platform calls for it.
+
+### What I work on
+
+- **Platform monitoring.** Host, JVM and hardware sensors for mainframe and Power systems, including the problems that only show up there: EBCDIC and file tagging on z/OS, finding JVMs across Java versions, and metrics from hardware management consoles.
+- **Tracing.** Message tracing for IBM MQ is my current focus.
+- **GenAI observability.** Automatic instrumentation of LLM applications in Python.
+
+### Contact
+
+[kartikhiremath001@gmail.com](mailto:kartikhiremath001@gmail.com)
 
 <br clear="all" />
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://leetcode.com/u/KongMonk777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="KongMonk777" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/kartikhirivhm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kartikhirivhm" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a> 
-    <a href="https://remix-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/remix/remix-original.svg" alt="remix" width="40" height="40"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a> 
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-</p>
 
 <hr>
 
